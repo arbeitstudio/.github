@@ -38,6 +38,6 @@ Close the world, \ .txen eht nepO
 [gss]: https://github.com/sabir-suleyman
 [gony]: https://github.com/osmannyildiz
 
-[ltw]: https://x.com/Webraiderlabs
+[ltw]: https://x.com/Webraiderdev
 [lig]: https://instagram.com/webraider.dev
-[lli]: https://linkedin.com/company/arbeitlabs
+[lli]: https://linkedin.com/company/arbeitstudio
