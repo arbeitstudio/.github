@@ -30,7 +30,7 @@ Close the world, \ .txen eht nepO
 ```
 
 [gfyb]: https://github.com/fybx
-[gbg]: https://github.com/baturalpguvenc
+[gbg]: https://github.com/virjilakrum
 [gfa]: https://github.com/FatmaArican
 [gyey]: https://github.com/gAtrium
 [gav]: https://github.com/Abdullah-V
