@@ -11,8 +11,6 @@ Arbeit Studio is a pioneering, <ins>forward-thinking</ins> initiative at the for
 - [Fatma ARICAN][gfa]
 - [Yunus Emre YOLDAŞ][gyey]
 - [Abdullah VELİSOY][gav]
-- [Oğuz Kaan DEMİR][gokd]
-- [Sefa ÖZER][gso]
 - [Osman Nuri YILDIZ][gony]
 - [Sena PEKACAR][gsp]
 - [Sabir SÜLEYMANLI][gss]
@@ -34,8 +32,6 @@ Close the world, \ .txen eht nepO
 [gfa]: https://github.com/FatmaArican
 [gyey]: https://github.com/gAtrium
 [gav]: https://github.com/Abdullah-V
-[gokd]: https://github.com/codeoguz
-[gso]: https://github.com/sefaozer
 [gsp]: https://github.com/daremiuv
 [gss]: https://github.com/sabir-suleyman
 [gony]: https://github.com/osmannyildiz
