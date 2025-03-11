@@ -6,13 +6,10 @@ Arbeit Studio is a pioneering, <ins>forward-thinking</ins> initiative at the for
 
 ## Meet the team
 
-- [Ferit Yiğit BALABAN][gfyb]
+- [Yiğid BALABAN][gfyb]
 - [Baturalp GÜVENÇ][gbg]
-- [Fatma ARICAN][gfa]
-- [Yunus Emre YOLDAŞ][gyey]
 - [Abdullah VELİSOY][gav]
 - [Osman Nuri YILDIZ][gony]
-- [Sena PEKACAR][gsp]
 - [Sabir SÜLEYMANLI][gss]
 
 ## Find us on socials
@@ -29,10 +26,7 @@ Close the world, \ .txen eht nepO
 
 [gfyb]: https://github.com/fybx
 [gbg]: https://github.com/virjilakrum
-[gfa]: https://github.com/FatmaArican
-[gyey]: https://github.com/gAtrium
 [gav]: https://github.com/Abdullah-V
-[gsp]: https://github.com/daremiuv
 [gss]: https://github.com/sabir-suleyman
 [gony]: https://github.com/osmannyildiz
 
