@@ -10,7 +10,6 @@ Arbeit Studio is a pioneering, <ins>forward-thinking</ins> initiative at the for
 - [Baturalp GÜVENÇ][gbg]
 - [Abdullah VELİSOY][gav]
 - [Osman Nuri YILDIZ][gony]
-- [Sabir SÜLEYMANLI][gss]
 
 ## Find us on socials
 
